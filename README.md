@@ -4,14 +4,14 @@ Full-Stack ML Engineer | Java Backend & AI Developer
 I'm a final-year Computer Science Engineering student at KPRIET with a strong foundation in backend development, machine learning, and full-stack software engineering. I build intelligent, scalable systems using Java, Spring Boot, Python, and modern ML frameworks. Passionate about creating impactful solutions that bridge AI innovation with real-world applications.
 
 🧠 What I Do
-Back to top
+
 🔧 Backend Development: Build robust, scalable RESTful APIs and systems using Java, Spring Boot, Flask, and PostgreSQL/MySQL.
 🤖 AI Engineering: Develop and deploy machine learning models, NLP pipelines, and image classification systems using Python, TensorFlow, Keras, and scikit-learn.
 🌐 Full-Stack Integration: Create end-to-end web applications with HTML/CSS, JavaScript, and Flask, integrating ML models into production-ready interfaces.
 📊 Data Solutions: Perform data preprocessing, feature engineering, and implement analytics pipelines for real-time decision-making.
 
 🛠️ Tech Stack
-Back to top
+
 Category
 Technologies
 Languages
@@ -70,5 +70,6 @@ Back to top
 💼 LinkedIn: linkedin.com/in/manish-morla-a04bb7361
 💻 GitHub: github.com/manishmorla
 "Building tomorrow’s solutions with today’s technology — one commit at a time."
+
 
 
