@@ -1,4 +1,5 @@
 ﻿👋 Hello, I'm Manish Morla
+ 
 Full-Stack ML Engineer | Java Backend & AI Developer
 I'm a final-year Computer Science Engineering student at KPRIET with a strong foundation in backend development, machine learning, and full-stack software engineering. I build intelligent, scalable systems using Java, Spring Boot, Python, and modern ML frameworks. Passionate about creating impactful solutions that bridge AI innovation with real-world applications.
 
@@ -11,7 +12,23 @@ Back to top
 
 🛠️ Tech Stack
 Back to top
-CategoryTechnologiesLanguagesPython, Java, JavaScript (ES6+), HTML/CSS, SQLBackendSpring Boot, Flask, RESTful APIs, Postman, Git/GitHubAI/MLTensorFlow, Keras, scikit-learn, scikit-image, Pandas, NumPy, NLP pipelinesFrontendHTML5, CSS3 (Grid/Flexbox), JavaScript (vanilla & async/await), Responsive Web DesignCloud & CRMSalesforce CRM, Cloud Computing FundamentalsToolsJupyter Notebook, Streamlit, VS Code, Windows & Linux Dev EnvironmentsConceptsOOP, Data Structures, System Design, API Development, Machine Learning, NLP
+Category
+Technologies
+Languages
+Python, Java, JavaScript (ES6+), HTML/CSS, SQL
+Backend
+Spring Boot, Flask, RESTful APIs, Postman, Git/GitHub
+AI/ML
+TensorFlow, Keras, scikit-learn, scikit-image, Pandas, NumPy, NLP pipelines
+Frontend
+HTML5, CSS3 (Grid/Flexbox), JavaScript (vanilla & async/await), Responsive Web Design
+Cloud & CRM
+Salesforce CRM, Cloud Computing Fundamentals
+Tools
+Jupyter Notebook, Streamlit, VS Code, Windows & Linux Dev Environments
+Concepts
+OOP, Data Structures, System Design, API Development, Machine Learning, NLP
+
 🚀 Highlighted Projects
 Back to top
 🗑️ ML-Waste-Classification – Full-Stack ML Application
@@ -53,4 +70,5 @@ Back to top
 💼 LinkedIn: linkedin.com/in/manish-morla-a04bb7361
 💻 GitHub: github.com/manishmorla
 "Building tomorrow’s solutions with today’s technology — one commit at a time."
+
 
